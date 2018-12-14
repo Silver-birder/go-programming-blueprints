@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/websocket"
-	"github.com/oreilly-japan/go-programming-blueprints/appendixB/trace"
+	"go-programming-blueprints/appendixB/trace"
 	"github.com/stretchr/objx"
 )
 

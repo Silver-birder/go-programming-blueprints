@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/cheekybits/is"
-	"github.com/oreilly-japan/go-programming-blueprints/chapter7/meander"
+	"go-programming-blueprints/chapter7/meander"
 )
 
 func TestCostValues(t *testing.T) {

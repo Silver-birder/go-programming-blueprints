@@ -1,0 +1,2 @@
+go get google.golang.org/appengine
+dev_appserver.py app.yaml --host=0.0.0.0

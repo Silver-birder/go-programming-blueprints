@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/oreilly-japan/go-programming-blueprints/chapter7/meander"
+	"go-programming-blueprints/chapter7/meander"
 )
 
 func main() {

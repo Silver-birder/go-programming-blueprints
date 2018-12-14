@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/oreilly-japan/go-programming-blueprints/chapter1/trace"
+	"go-programming-blueprints/chapter1/trace"
 )
 
 // templは1つのテンプレートを表します

@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/matryer/filedb"
-	"github.com/oreilly-japan/go-programming-blueprints/chapter8/backup"
+	"go-programming-blueprints/chapter8/backup"
 )
 
 type path struct {
